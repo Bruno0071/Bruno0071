@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Bruno Santiago</br>
 
 - 🧑‍💻 Atualmente, estou me aprofundando em JavaScript.
-- 🚀 Meu objetivo é seguir carreira como desenvolvedor Fullstack.
+- 🚀 Meu objetivo é seguir carreira como desenvolvedor Back-End.
 - 🌟 Estou em busca de uma oportunidade de estágio para ganhar experiência e contribuir com projetos desafiadores.
 
 <div>
