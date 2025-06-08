@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Bruno Santiago</br>
 
 - 🧑‍💻 Atualmente, estou me aprofundando em JavaScript.
-- 🚀 Meu objetivo é seguir carreira como desenvolvedor Back-End.
-- 🌟 Estou em busca de uma oportunidade de estágio para ganhar experiência e contribuir com projetos desafiadores.
+- 🚀 Meu objetivo é me especializar carreira como desenvolvedor Back-End.
+- 🌟 Estou em busca de me desenvolver para ganhar experiência e contribuir com projetos desafiadores.
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno0071&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true"/>
