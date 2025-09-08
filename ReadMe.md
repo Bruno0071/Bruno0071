@@ -6,7 +6,9 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno0071&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0071&layout=compact&langs_count=16&theme=shadow_red"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0071&layout=compact&langs_count=16&theme=shadow_red"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 </div>
 ---
 
