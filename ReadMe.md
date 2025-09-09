@@ -1,4 +1,4 @@
-## Hello Guys, I'm Bruno.</br>
+## Hello Guys! I'm Bruno.</br>
 - 👾 Meu objetivo é evoluir continuamente e aprimorando minhas habilidades como desenvolvedor Back-End.
 - 🔎 À procura da minha primeira experiência na área, onde possa desenvolver minhas habilidades e gerar valor para a equipe.
 
