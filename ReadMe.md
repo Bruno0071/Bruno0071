@@ -35,12 +35,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno0071/Bruno0071/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <a href="in/bruno-santiago-code0071" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
